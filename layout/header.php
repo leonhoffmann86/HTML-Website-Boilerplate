@@ -2,13 +2,10 @@
 <html class="no-js" lang="de">
   <head>
     <meta charset="utf-8" />
-    <title>CODIN - Online Publishing</title>
+    <title>Placeholder</title>
     <meta
       name="description"
-      content="CODIN - Online Publishing - Vereinfachen Sie 
-    Ihre Marketing-Prozesse! Alles auf einer Plattform: CODIN bündelt sämtliche 
-    Arbeitsschritte rund um Kreation, Freigabe und Distribution.
-    Und das sowohl von Content­ als auch von Layout­ Projekten."
+      content="Placeholder"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -28,7 +25,7 @@
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
       crossorigin="anonymous"
     />
-
+    <script src="assets/js/picturefill.min.js"></script>
     <meta name="theme-color" content="#fafafa" />
   </head>
 
